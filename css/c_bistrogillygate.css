@@ -1,0 +1,15 @@
+header {
+  text-align: left;
+  font-family: inconsolata;
+  color: black;
+}
+
+h1 {
+  text-align: left;
+  font-size:1.5em;
+}
+
+body {
+  font-family: inherit;
+  float: left;
+}
